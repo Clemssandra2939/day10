@@ -13,3 +13,5 @@ def format_name(f_name,l_name):
 
     print(f"{formated_f_name}  {formated_l_name}")
 format_name("SanDRA","CLEMS") #Sandra  Clems
+
+# How to use result function instead of print function 
