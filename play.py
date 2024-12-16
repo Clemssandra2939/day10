@@ -1,3 +1,18 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # leap year coding char.
 # how to know whether any year is a leap year
 # on every year that is evenly divisible by 4
