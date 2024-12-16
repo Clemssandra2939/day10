@@ -1,5 +1,15 @@
+# Days in month
+# Instructions
 
+# In the starting code,you will find the solution from the leap year
+# challenge.first convert the function is_leap() so that instead of printing 
+# printing "leap year" or "Not leap year",it should return True if it is a leap year 
+# and return False if it is not a leap year
+# You are going to create a function called days_in_month() which will take a year and a month as inputs EncodingWarning
+# E.g day_in_month(year=2022,month= 2)
 
+# And it will use this infomation to work out the number of days in the onth,then return that as the output 
+E.g
 
 
 
