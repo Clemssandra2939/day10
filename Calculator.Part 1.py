@@ -21,8 +21,16 @@ def divide(n1,n2):
 # values = the names of the functions(add,subtract,multiply,divide)
 
 operations ={
-"+" :
-
+   "+" : add,
+   "-" : subtract,
+   "*" : multiply,
+   "/" : divide,
 }
 
+# function = operations["*"]
+# function(2,3)
 
+# this is how the symbols can be called
+
+num1 =  int(input("What's the first number? :  "))
+num2 = int(input("What's the second number?: "))
