@@ -20,6 +20,9 @@ def divide(n1,n2):
 # keys = symbols + - * /
 # values = the names of the functions(add,subtract,multiply,divide)
 
+operations ={
+"+" :
 
+}
 
 
