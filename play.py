@@ -58,3 +58,9 @@ E.g
 
 # else:
 #     print(f"{year} is not leap year")
+
+
+capitals ={
+ "France":"Paris",
+ "Germany":"Berlin",
+}
